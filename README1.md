@@ -6,4 +6,4 @@ The primary purpose of this webpage is to serve as a platform for my friends bus
 
 
 ## Technologies Used
-••design.com•• - Used for making an AI logo to use on my site.\ 
+**design.com** - Used for making an AI logo to use on my site.\ 
