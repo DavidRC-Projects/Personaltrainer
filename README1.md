@@ -38,8 +38,19 @@ The primary purpose of this webpage is to serve as a platform for my friends per
 * To increase awareness of his brand by establishing a strong online presence by increasing visibility on search engines that will highlight his experience and qualifications.
 * The webpage will make administrive tasks easier by using an automated system that will organise time slots from his clients and make it easier to track payments as currently uses a paper diary to record this.  
 
+## Design
 
+Wireframes were created using Figma.
 
+First draft
+
+- Desktop Large
+  
+- Desktop basic
+
+- Tablet
+
+- Mobile
 
 ## Technologies Used
 **design.com** - Used for making an AI logo to use on my site.\ 
