@@ -1,4 +1,4 @@
-## Personal trainer webpage
+# Personal trainer webpage
 
 ## Introduction
 
